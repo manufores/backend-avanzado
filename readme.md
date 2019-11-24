@@ -65,6 +65,9 @@ Para arrancar el microservicio usaremos el siguiente comand:
 ```sh
 `$ npn run thumbnailService`
 ```
-
 ### Sustituir el archivo .env_example
 Para que funcione la aplicación se deberá sustituir el archivo .env_example por .env con los datos privados de cada programador.
+
+## Internacionalización
+Consiste en la funcionalidad de cambiar el idioma en la vista desde el front.
+Se dispone de un selector de idioma en Español y en Inglés.
