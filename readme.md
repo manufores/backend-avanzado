@@ -33,6 +33,7 @@ con info del error
 ### Realizado con:
 - Nodejs para el servidor
 - MongoDB para la Base de Datos
+- cote.js para la gestión del microservicio
 ### Instalación
 - Bajar la carpeta nodepop contenida en git
 - Acceder a la carpeta nodepop utlizando el código:
