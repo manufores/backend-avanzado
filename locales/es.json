@@ -1,0 +1,26 @@
+{
+	"EXAMPLE": "EJEMPLO",
+	"Welcome to": "Bienvenido a",
+	"Escapar valores": "Escapar valores",
+	"Condicionales": "Condicionales",
+	"es par": "es par",
+	"es impar": "es impar",
+	"Pruebas de i18n": "Pruebas de i18n",
+	"Hola, mi nombre es {{name}} y mi edad es {{age}}": "Hola, mi nombre es {{name}} y mi edad es {{age}}",
+	"Mouse": {
+		"one": "%s ratón",
+		"other": "%s ratones"
+	},
+	"inyeccion de codigo": "inyeccion de codigo",
+	"Services": "Servicios",
+	"Text of services": "Texto de servicios",
+	"Invalid credentials": "Invalid credentials",
+	"Anuncios": "Anuncios",
+	"¿Qué se vende?:": "¿Qué se vende?:",
+	"Categorías:": "Categorías:",
+	"Precio:": "Precio:",
+	"¿Se vende?:": "¿Se vende?:",
+	"Token expirado": "Token expirado",
+	"Token Expirado": "Token Expirado",
+	"No hay token": "No hay token"
+}
